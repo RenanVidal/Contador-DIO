@@ -1,5 +1,5 @@
 # Contador
-Neste projeto,fiz a minhrimeira integração de um código Javascript com uma página HTML no Bootcam do Santander FullStack da DIO.
+Neste projeto,fiz a minhrimeira integração de um código Javascript com uma página HTML no Santander Bootcamp Fullstack Developer da DIO.
 
 Cumprindo os desafios propostos pela @stebsnusch
 
